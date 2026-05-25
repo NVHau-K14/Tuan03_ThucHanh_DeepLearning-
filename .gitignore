@@ -217,4 +217,5 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
+# Bỏ qua file sau vì > 25mb
 fashion-mnist_train.csv
